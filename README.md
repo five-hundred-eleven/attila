@@ -4,6 +4,8 @@ A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost
 
 ## ♥️ Support
 
+(This repo is a fork- this link goes to the original author.)
+
 You can [buy me a drink](https://paypal.me/zutrinken) if you enjoy using Attila. Cheers 🍻
 
 ## 📷 Screenshot
